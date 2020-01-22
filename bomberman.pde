@@ -1,6 +1,3 @@
-//homework_20161114
-//nagai toru
-
 import java.util.ArrayList;
 
 //static variable
